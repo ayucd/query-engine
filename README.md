@@ -1,2 +1,2 @@
 # query-engine
-An LLM-based Query Engine
+An LLM-based Query Engine.
